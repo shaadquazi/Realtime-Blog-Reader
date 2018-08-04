@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ureka360</string>
+    <string name="get_started_str">Get Started</string>
+    <string name="app_tag">Things worth sharing.</string>
+    <string name="app_agreement">By continuing, you accept the Terms of Use and Privacy Policy.</string>
+    <string name="select_topic_str">Select 3 or more Topics</string>
+    <string name="tab1">For You</string>
+    <string name="tab2">Fresh</string>
+    <string name="option">"\u22EE"</string>
+    <string name="tab3">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="follow_str">Follow</string>
+</resources>
